@@ -1,0 +1,15 @@
+
+싸이그래머 tensor 팔로우
+* https://github.com/psygrammer/tensorfollow/tree/master/part1/chatbot-retrieval
+
+원본 출처 블로그
+* DEEP LEARNING FOR CHATBOTS, PART 1 – INTRODUCTION
+ * http://www.wildml.com/2016/04/deep-learning-for-chatbots-part-1-introduction/
+* DEEP LEARNING FOR CHATBOTS, PART 2 – IMPLEMENTING A RETRIEVAL-BASED MODEL IN TENSORFLOW
+ * http://www.wildml.com/2016/07/deep-learning-for-chatbots-2-retrieval-based-model-tensorflow/
+ 
+THE UBUNTU DIALOG CORPUS
+* paper
+ * http://arxiv.org/abs/1506.08909
+* github
+ * https://github.com/rkadlec/ubuntu-ranking-dataset-creator
